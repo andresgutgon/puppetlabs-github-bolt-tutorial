@@ -1,0 +1,13 @@
+{
+  "CHANGELOG.md": "5ac28ba95149271a31ddcbc5fddd3ae3",
+  "Gemfile": "38d811a6390caaa81933814dca2b6293",
+  "LICENSE": "86d3f3a95c324c9479bd8986968f4327",
+  "README.md": "1fbc7dbb0d439031bdd58a334c7970c1",
+  "Rakefile": "ccf27ee3f5e431b84134a9dd6dabd82d",
+  "examples/mytask.json": "20e895583bbd86ede8307a0207b92ed9",
+  "examples/mytask.rb": "8b11cd1db850b585116f5229747ea492",
+  "examples/task_test.rb": "7bcee19568a03cd0ca3d11be09c4de35",
+  "files/task_helper.rb": "d58720fab909ffa30e774f0c09cb9e29",
+  "metadata.json": "d944ab368e3148ead0af8cfa5db97bcd",
+  "spec/helper_spec.rb": "b1e497604f3d9d3c5851131e27af2a2f"
+}
